@@ -1,0 +1,3 @@
+C:\Users\fahad\Downloads\Output for 160 CIF file\SuperCell Results Ga Sn\Ga_Sn_13\Ga_Sn_13_il000000000_w4.cif	0.000 eV
+C:\Users\fahad\Downloads\Output for 160 CIF file\SuperCell Results Ga Sn\Ga_Sn_13\Ga_Sn_13_il000000001_w4.cif	0.000 eV
+C:\Users\fahad\Downloads\Output for 160 CIF file\SuperCell Results Ga Sn\Ga_Sn_13\Ga_Sn_13_il000000002_w4.cif	0.000 eV
